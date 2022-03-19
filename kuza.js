@@ -82,13 +82,13 @@ const simple = require('./lib/simple.js')
 
     //--Setting--//
 
-let botname = '*_｢ KuzaBase 0.1 ｣ 冬_*' //NAMA BOT
+let botname = '*_｢ ValzzBase 0.1 ｣ 冬_*' //NAMA BOT
 let lolkey = 'isi'
-let zekskey = 'NXRu7zmcmyWTn0YGNzIV0gTFgoP' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
-let ownername = '*_｢ AbilGanz ✘ ｣_*' //NAMA OWNER
-let owner = '6282293295376' // NOMOR OWNER
+let zekskey = '2dfJJRNXSorNX8iFww44AZuBCtu' //Ganti Pake Api Lu Sendiri Biar Limitnya Gak Cepet Abis , Login Di zeks.me Untuk Mendapatkan Api Gratis
+let ownername = '*_｢ ValzzGanz ✘ ｣_*' //NAMA OWNER
+let owner = '6283101508401' // NOMOR OWNER
 let symbol = '*☛*'
-let faketeks = `*_｢ KuzaBase 0.1 ｣ 冬_*` 
+let faketeks = `*_｢ ValzzBase 0.1 ｣ 冬_*` 
 
 readGc = true; 
 readPc = true;
